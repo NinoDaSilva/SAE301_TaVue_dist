@@ -25,3 +25,4 @@ jobs:
         script: |
           cd /var/www/TaVue
           git pull origin main
+          
