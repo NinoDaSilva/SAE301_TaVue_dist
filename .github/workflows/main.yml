@@ -25,4 +25,3 @@ jobs:
         script: |
           cd /var/www/SAE301_TaVue_dist/
           git pull origin main
-          git status
