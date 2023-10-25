@@ -26,3 +26,4 @@ jobs:
           cd /var/www/SAE301_TaVue_dist/pb_public
           git pull origin main
           git status
+          
